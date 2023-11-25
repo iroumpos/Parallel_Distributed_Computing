@@ -1,0 +1,10 @@
+--------------------------------------
+
+Compile done with: 
+gcc -Wall -g serial_mul.c -o serial_mul-fopenmp -lm
+gcc -Wall -g parallel_mul.c -o parallel_mul -fopenmp -lm   
+
+Run the test.bs if you want to get the results in detail
+Else ./serial_mul and ./parallel_mul will do the work.
+
+-----------------------------------------

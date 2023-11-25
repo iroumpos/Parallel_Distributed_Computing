@@ -1,0 +1,11 @@
+#!/bin/bash
+THREADS=(1 2 3 4 5)
+for thread in ${THREADS[@]}; 
+	do
+		export OMP_NUM_THREADS=$thread
+		echo "Num threads: $thread"
+	for i in {10..20} 
+		do 
+			./fft_parallel $i
+		done
+done

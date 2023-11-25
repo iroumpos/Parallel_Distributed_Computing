@@ -1,0 +1,60 @@
+Num threads: 1
+N = 10.00 Total time = 0.000604976 seconds
+N = 11.00 Total time = 0.00123422 seconds
+N = 12.00 Total time = 0.00292676 seconds
+N = 13.00 Total time = 0.00593098 seconds
+N = 14.00 Total time = 0.00644857 seconds
+N = 15.00 Total time =  0.0134876 seconds
+N = 16.00 Total time =  0.0286929 seconds
+N = 17.00 Total time =  0.0574807 seconds
+N = 18.00 Total time =   0.121656 seconds
+N = 19.00 Total time =   0.260288 seconds
+N = 20.00 Total time =   0.584439 seconds
+Num threads: 2
+N = 10.00 Total time = 0.000275948 seconds
+N = 11.00 Total time = 0.00049004 seconds
+N = 12.00 Total time = 0.00102307 seconds
+N = 13.00 Total time = 0.00193173 seconds
+N = 14.00 Total time = 0.00346731 seconds
+N = 15.00 Total time = 0.00673193 seconds
+N = 16.00 Total time =  0.0150378 seconds
+N = 17.00 Total time =  0.0313205 seconds
+N = 18.00 Total time =  0.0646525 seconds
+N = 19.00 Total time =   0.137451 seconds
+N = 20.00 Total time =   0.305693 seconds
+Num threads: 3
+N = 10.00 Total time = 0.000242511 seconds
+N = 11.00 Total time = 0.000390815 seconds
+N = 12.00 Total time = 0.000719739 seconds
+N = 13.00 Total time = 0.00140042 seconds
+N = 14.00 Total time = 0.00218747 seconds
+N = 15.00 Total time = 0.00532629 seconds
+N = 16.00 Total time =  0.0108064 seconds
+N = 17.00 Total time =  0.0210725 seconds
+N = 18.00 Total time =  0.0443356 seconds
+N = 19.00 Total time =  0.0970999 seconds
+N = 20.00 Total time =   0.221649 seconds
+Num threads: 4
+N = 10.00 Total time = 0.00027853 seconds
+N = 11.00 Total time = 0.000407605 seconds
+N = 12.00 Total time = 0.000712662 seconds
+N = 13.00 Total time = 0.00133922 seconds
+N = 14.00 Total time = 0.00202571 seconds
+N = 15.00 Total time = 0.00458149 seconds
+N = 16.00 Total time =  0.0131791 seconds
+N = 17.00 Total time =  0.0340494 seconds
+N = 18.00 Total time =  0.0575643 seconds
+N = 19.00 Total time =   0.112899 seconds
+N = 20.00 Total time =   0.211489 seconds
+Num threads: 5
+N = 10.00 Total time = 0.000335888 seconds
+N = 11.00 Total time = 0.000375046 seconds
+N = 12.00 Total time = 0.000654538 seconds
+N = 13.00 Total time = 0.00129183 seconds
+N = 14.00 Total time = 0.00192914 seconds
+N = 15.00 Total time = 0.00582581 seconds
+N = 16.00 Total time = 0.00795992 seconds
+N = 17.00 Total time =  0.0256495 seconds
+N = 18.00 Total time =  0.0533176 seconds
+N = 19.00 Total time =    0.10246 seconds
+N = 20.00 Total time =   0.220866 seconds

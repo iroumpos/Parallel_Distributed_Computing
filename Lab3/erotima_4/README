@@ -1,0 +1,8 @@
+--------------------------------------
+
+Compile done with: gcc -Wall -g jacobi_openmp.c -o jacobi_openmp -fopenmp -lm   
+
+Run the test.bs if you want to get the results in detail
+Else ./jacobi_openmp will do the work.
+
+-----------------------------------------
